@@ -1,0 +1,8 @@
+District,Lat,Lon,Revenue_VND_Billion,Population,Growth_Index,Market_Segment
+District 1,10.776,106.701,580,155000,0.94,Premium
+District 3,10.781,106.682,395,210000,0.76,Standard
+District 5,10.755,106.665,450,172000,0.82,Premium
+District 10,10.771,106.661,310,245000,0.65,Standard
+Tan Binh,10.792,106.645,285,485000,0.58,Mass
+Binh Thanh,10.81,106.709,490,512000,0.9,Standard
+District 7,10.732,106.721,510,380000,0.96,High-Growth
